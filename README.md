@@ -1,4 +1,6 @@
 # C-terminal-graphics
+### Currently in developement.
+
 A linux only, simple library written in C that allows creating graphics in terminal. Please share your feedback if you can.
 
 ## This project is educational
