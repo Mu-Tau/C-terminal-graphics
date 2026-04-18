@@ -1,5 +1,5 @@
 # C-terminal-graphics
-A linux only, simple library written in C that allows creating graphics using terminal emulator. Please share your feedback if you can.
+A linux only, simple library written in C that allows creating graphics in terminal. Please share your feedback if you can.
 
 ## This project is educational
 The primary purpose of this project is for me to learn C on a deeper level, you can use the code but I can't guarantee everything will be working properly.
